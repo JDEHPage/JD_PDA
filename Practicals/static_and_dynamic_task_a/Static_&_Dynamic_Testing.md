@@ -16,4 +16,4 @@
 
   Carry out dynamic testing on testing_task_2.rb.
 
-  Read through the code. Create a spec file and write a test for each function. Screenshot the tests and the tests failing. Correct the errors you spotted in task A. 
+  Read through the code. Create a spec file and write a test for each function. Correct the errors you spotted in task A. 
